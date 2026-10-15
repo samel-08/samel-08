@@ -7,7 +7,7 @@
 ## 🛠️ Tecnologias
 
 <div>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github" />
 </div>
 
 ## 📊 GitHub Stats
